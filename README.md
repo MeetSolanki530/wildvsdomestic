@@ -5,8 +5,9 @@ Classified images of wild and domestic animals using Convolutional Neural Networ
 
 ## Tech Stack
 - Python
-- TensorFlow (Conv2D, Dense, Flatten, MaxPooling2D, BatchNormalization)
-- Matplotlib, VGG16
+- TensorFlow Keras
+- CNN (Conv2D, Dense, Flatten, MaxPooling2D, BatchNormalization)
+- Matplotlib
 - Jupyter Notebook
 - Opencv - python
 
