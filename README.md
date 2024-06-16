@@ -17,4 +17,4 @@ Classified images of wild and domestic animals using Convolutional Neural Networ
 
 ## Installation
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
