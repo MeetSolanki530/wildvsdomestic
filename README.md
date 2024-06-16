@@ -16,4 +16,4 @@ Classified images of wild and domestic animals using Convolutional Neural Networ
 
 ## Installation
 ```bash
-pip install tensorflow matplotlib
+pip install requirements.txt
